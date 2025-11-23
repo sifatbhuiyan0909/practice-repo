@@ -1,2 +1,2 @@
 #     practice-repo
-  it is a repo to help me for my GitHub practise
+  it is a repo to help me my GitHub practise
